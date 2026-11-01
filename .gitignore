@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.env
+**/.env
+.DS_Store
+*.zip
+output.csv
+attachments/
+
+# HackerRank challenge materials and model caches: kept locally, not published
+dataset/
+problem_statement.md
+AGENTS.md
+CLAUDE.md
+.vision_cache/
+.message_delta_cache/
